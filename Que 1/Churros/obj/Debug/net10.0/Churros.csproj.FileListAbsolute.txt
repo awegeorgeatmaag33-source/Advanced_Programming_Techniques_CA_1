@@ -1,0 +1,42 @@
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\CA 1\Churros\bin\Debug\net10.0\Churros.exe
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\CA 1\Churros\bin\Debug\net10.0\Churros.deps.json
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\CA 1\Churros\bin\Debug\net10.0\Churros.runtimeconfig.json
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\CA 1\Churros\bin\Debug\net10.0\Churros.dll
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\CA 1\Churros\bin\Debug\net10.0\Churros.pdb
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\CA 1\Churros\obj\Debug\net10.0\Churros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\CA 1\Churros\obj\Debug\net10.0\Churros.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\CA 1\Churros\obj\Debug\net10.0\Churros.AssemblyInfo.cs
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\CA 1\Churros\obj\Debug\net10.0\Churros.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\CA 1\Churros\obj\Debug\net10.0\Churros.dll
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\CA 1\Churros\obj\Debug\net10.0\refint\Churros.dll
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\CA 1\Churros\obj\Debug\net10.0\Churros.pdb
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\CA 1\Churros\obj\Debug\net10.0\Churros.genruntimeconfig.cache
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\CA 1\Churros\obj\Debug\net10.0\ref\Churros.dll
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\20070761 CA 1\Churros PJ\Churros\bin\Debug\net10.0\Churros.exe
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\20070761 CA 1\Churros PJ\Churros\bin\Debug\net10.0\Churros.deps.json
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\20070761 CA 1\Churros PJ\Churros\bin\Debug\net10.0\Churros.runtimeconfig.json
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\20070761 CA 1\Churros PJ\Churros\bin\Debug\net10.0\Churros.dll
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\20070761 CA 1\Churros PJ\Churros\bin\Debug\net10.0\Churros.pdb
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\20070761 CA 1\Churros PJ\Churros\obj\Debug\net10.0\Churros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\20070761 CA 1\Churros PJ\Churros\obj\Debug\net10.0\Churros.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\20070761 CA 1\Churros PJ\Churros\obj\Debug\net10.0\Churros.AssemblyInfo.cs
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\20070761 CA 1\Churros PJ\Churros\obj\Debug\net10.0\Churros.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\20070761 CA 1\Churros PJ\Churros\obj\Debug\net10.0\Churros.dll
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\20070761 CA 1\Churros PJ\Churros\obj\Debug\net10.0\refint\Churros.dll
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\20070761 CA 1\Churros PJ\Churros\obj\Debug\net10.0\Churros.pdb
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\20070761 CA 1\Churros PJ\Churros\obj\Debug\net10.0\Churros.genruntimeconfig.cache
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\20070761 CA 1\Churros PJ\Churros\obj\Debug\net10.0\ref\Churros.dll
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\20070761 CA 1\Que 1\Churros\bin\Debug\net10.0\Churros.exe
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\20070761 CA 1\Que 1\Churros\bin\Debug\net10.0\Churros.deps.json
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\20070761 CA 1\Que 1\Churros\bin\Debug\net10.0\Churros.runtimeconfig.json
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\20070761 CA 1\Que 1\Churros\bin\Debug\net10.0\Churros.dll
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\20070761 CA 1\Que 1\Churros\bin\Debug\net10.0\Churros.pdb
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\20070761 CA 1\Que 1\Churros\obj\Debug\net10.0\Churros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\20070761 CA 1\Que 1\Churros\obj\Debug\net10.0\Churros.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\20070761 CA 1\Que 1\Churros\obj\Debug\net10.0\Churros.AssemblyInfo.cs
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\20070761 CA 1\Que 1\Churros\obj\Debug\net10.0\Churros.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\20070761 CA 1\Que 1\Churros\obj\Debug\net10.0\Churros.dll
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\20070761 CA 1\Que 1\Churros\obj\Debug\net10.0\refint\Churros.dll
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\20070761 CA 1\Que 1\Churros\obj\Debug\net10.0\Churros.pdb
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\20070761 CA 1\Que 1\Churros\obj\Debug\net10.0\Churros.genruntimeconfig.cache
+C:\Users\User\OneDrive - Dublin Business School (DBS)\Advanced Programming Techniques\20070761 CA 1\Que 1\Churros\obj\Debug\net10.0\ref\Churros.dll

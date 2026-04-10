@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Churros/Churros.csproj" />
+  <Project Path="ChurrosApp.Tests/ChurrosApp.Tests.csproj" />
+</Solution>
